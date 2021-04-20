@@ -1,5 +1,5 @@
 # centos5-mysql56
-Create a CentOS5 + mysql5.6 docker image
+Create a CentOS5 + mysql5.6 docker image For perl testing.
 
 1. Run setup.sh.
 1. Run docker build command.
